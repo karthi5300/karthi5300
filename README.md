@@ -17,18 +17,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi5300&label=Profile%20views&color=0e75b6&style=flat" alt="karthi5300" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthi5300" alt="karthi5300" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCWrjrjzwIHBelQeZiK49Gow#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCWrjrjzwIHBelQeZiK49Gow#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/karthick-krishnasamy-52304582/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/karthick-krishnasamy-52304582/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/nexgen.graphics/?hl=en#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/nexgen.graphics/?hl=en#gh-dark-mode-only)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
