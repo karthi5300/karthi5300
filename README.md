@@ -1,7 +1,7 @@
+<!--
 ### Hello there,👋 I'm Karthick Krishnasamy!
 
 ### Connect with me:
-
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCWrjrjzwIHBelQeZiK49Gow#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCWrjrjzwIHBelQeZiK49Gow#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -10,6 +10,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/nexgen.graphics/?hl=en#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/nexgen.graphics/?hl=en#gh-dark-mode-only)
+-->
 
 <h1 align="center">Hi 👋, I'm Karthick Krishnasamy</h1>
 <h3 align="center">A passionate Game Developer, Designer and tutor.</h3>
